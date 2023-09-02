@@ -16,8 +16,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Langueges and tools</h3>
 
 ###
