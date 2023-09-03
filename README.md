@@ -44,16 +44,18 @@
 
 ###
 
-<h3 align="center">Stats</h3>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisuev&theme=github_dark" alt="GitHub Profile Summary Card">
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisuev&theme=github_dark" alt="GitHub Profile Summary Card">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisuev&theme=github_dark&utcOffset=8" alt="GitHub Profile Summary Card">
-</p>
+<details>
+  <summary align="center"><h3>GitHub Stats</h3></summary>
+  
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisuev&theme=github_dark" alt="GitHub Profile Summary Card">
+  </p>
+  
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisuev&theme=github_dark" alt="GitHub Profile Summary Card">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisuev&theme=github_dark&utcOffset=8" alt="GitHub Profile Summary Card">
+  </p>
+</details>
 
 ###
 
