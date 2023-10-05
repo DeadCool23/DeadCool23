@@ -16,11 +16,11 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=500&size=23&pause=1000&color=E6EDF3FF&center=true&vCenter=true&lines=Languages+and+tools" alt="Typing SVG" /></a>
-</div>
+</div>-->
 
-<!--<h3 align="center">Langueges and tools</h3>-->
+<h3 align="center">Languages and tools</h3>
 
 ###
 
