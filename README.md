@@ -66,7 +66,7 @@
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisuev&layout=compact&theme=github_dark&border_color=2e343b" alt="Used languages GitHub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisuev&layout=compact&theme=github_dark&border_color=2e343b&title_color=0366d6" alt="Used languages GitHub">
   </p>
 </details>
 
