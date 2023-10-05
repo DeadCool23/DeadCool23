@@ -16,7 +16,11 @@
 
 ###
 
-<h3 align="center">Langueges and tools</h3>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=500&size=23&pause=1000&color=E6EDF3FF&center=true&vCenter=true&lines=Languages+and+tools" alt="Typing SVG" /></a>
+</div>
+
+<!--<h3 align="center">Langueges and tools</h3>-->
 
 ###
 
@@ -36,6 +40,8 @@
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
