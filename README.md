@@ -64,6 +64,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nisuev&theme=github_dark" alt="GitHub Profile Summary Card">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisuev&theme=github_dark&utcOffset=8" alt="GitHub Profile Summary Card">
   </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisuev&layout=compact&theme=github_dark&border_color=2e343b" alt="Used languages GitHub">
+  </p>
 </details>
 
 ###
