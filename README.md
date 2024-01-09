@@ -62,7 +62,7 @@
   
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeadCool23&theme=github_dark" alt="GitHub Profile Summary Card">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadCool23&theme=github_dark&utcOffset=8" alt="GitHub Profile Summary Card">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeadCool23&theme=github_dark&utcOffset=3" alt="GitHub Profile Summary Card">
   </p>
 
   <p align="center">
