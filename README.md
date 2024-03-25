@@ -55,8 +55,9 @@
 
 ###
 
+<h3>
 <details>
-  <summary align="center"><h3>GitHub Stats</h3></summary>
+  <summary align="center">GitHub Stats</summary>
   
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadCool23&theme=github_dark" alt="GitHub Profile Summary Card">
@@ -71,6 +72,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadCool23&layout=compact&theme=github_dark&border_color=2e343b&title_color=0366d6" alt="Used languages GitHub">
   </p>
 </details>
+</h3>
 
 ###
 
