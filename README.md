@@ -41,6 +41,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
@@ -51,10 +52,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=apple" height="40" alt="python logo"  />
   <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="bash logo"  />
   <img width="12" />
+<!--
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
+-->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
