@@ -46,13 +46,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="md logo"  />
   <img width="12" />
   <br>
+  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="bash logo"  />
   <img width="12" />
 <!--
@@ -63,7 +65,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
   <img width="12" />
 </div>
 
